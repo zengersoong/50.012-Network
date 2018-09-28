@@ -12,8 +12,8 @@ Lab 2:Building your own web application with a Restful API
 5. Implement a simple HTTP authentication with a username and a password. - No Need to implement HTTPS/TLS YET
 
 
-# My lab strategy is a set up a simple way for students to view their assigned student ID or username and 
-a way for admins to access the MongoDB to make changes and alteration to the student ID/username
+### My lab strategy is a set up a simple way for students to view their assigned student ID or username and 
+A server-client web server for admins to access the MongoDB to make changes and alteration to the student ID/username using flask.
 
 # Directory/ Container Nouns
 1. /student
