@@ -124,7 +124,7 @@ student`*__
 
 ### How to run?
 1. Download python3
-2. Get the libraries required such as `pip3 install flask` && `sudo pip3 install pymongo'
+2. Get the libraries required such as `pip3 install flask` && `sudo pip3 install pymongo`
 3. Open up two terminals, Command prompt on either Linux-based operating system / macOS
 4. Run `python3 week2lab2.py` to start the server up.
 5. On the other terminal run the respective curl commands.
