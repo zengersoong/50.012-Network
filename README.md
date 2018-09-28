@@ -13,7 +13,8 @@ Lab 2:Building your own web application with a Restful API
 
 
 ### My lab strategy is a set up a simple way for students to view their assigned student ID or username and 
-A server-client web server for admins to access the MongoDB to make changes and alteration to the student ID/username using flask.
+A server-client web server for admins to access the MongoDB to make changes and alteration to the student ID/username using flask.  
+*MongoDB + Python Flask + RESTFUL API*
 
 # Directory/ Container Nouns
 1. /student
