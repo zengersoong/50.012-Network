@@ -130,8 +130,29 @@ student`*__
 4. Run `python3 week2lab2.py` to start the server up.
 5. On the other terminal run the respective curl commands.
 
+
 ## References and guides used
 1. https://www.bogotobogo.com/python/MongoDB_PyMongo/python_MongoDB_RESTAPI_with_Flask.php
 2. https://flask-pymongo.readthedocs.io/en/latest/
 3. http://flask.pocoo.org/docs/0.12/installation/
 
+
+
+
+# Network Labs #3
+Network 50.012 Mod ISTD Term 6
+<br>LAB 2<br/>
+
+Lab 2:Server and Client UDP 
+
+### List of task to fulfil for Lab
+1. The client should send approximately 1.5Mbps
+2. No packets should be dropped by default
+3. If we increase the packet rate by 10%, we should see dropped packets
+4. The server should report if incoming traffic has dropped datagrams
+
+
+
+### My lab strategy 
+Absolutely no strategy , just send and wait to ensure that packets are sent at 1.5Mbps to server.
+Json is used to keep track of segment IDs, a python list is kept to keep track of which segment are late/ dropped.
