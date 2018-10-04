@@ -143,7 +143,7 @@ student`*__
 Network 50.012 Mod ISTD Term 6
 <br>LAB 2<br/>
 
-Lab 2:Server and Client UDP 
+Lab 3:Server and Client UDP 
 
 ### List of task to fulfil for Lab
 1. The client should send approximately 1.5Mbps
