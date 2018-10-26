@@ -155,6 +155,13 @@ Lab 3:Server and Client UDP
 Absolutely no strategy , just send and wait to ensure that packets are sent at 1.5Mbps to server.
 Json is used to keep track of segment IDs, a python list is kept to keep track of which segment are late/ dropped.
 
+# Network Labs #4
+Network 50.012 Mod ISTD Term 6
+Lab 4: BGP routing
+1. Discovering more about mininet and learning the basics
+2. Getting familiar with BGP and Zebra tools
+3. Understanding malicious BGP abuse
+
 # Network Labs #5
 Network 50.012 Mod ISTD Term 6
 Lab 5: Designing and implementing a small network
