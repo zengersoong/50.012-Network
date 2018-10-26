@@ -1,6 +1,5 @@
 # Network Labs #2
 Network 50.012 Mod ISTD Term 6
-<br>LAB 2<br/>
 
 Lab 2:Building your own web application with a Restful API
 
@@ -141,7 +140,6 @@ student`*__
 
 # Network Labs #3
 Network 50.012 Mod ISTD Term 6
-<br>LAB 3<br/>
 
 Lab 3:Server and Client UDP 
 
@@ -159,7 +157,6 @@ Json is used to keep track of segment IDs, a python list is kept to keep track o
 
 # Network Labs #5
 Network 50.012 Mod ISTD Term 6
-<br>LAB 3<br/>
 Lab 5: Designing and implementing a small network
 
 1. Use knowledge from the class to design and implement a small network
