@@ -192,10 +192,5 @@ switches.
 • We then extend the controller to install specific flows in the switch
 • This exercise is built on the official mininet tutorial at https://github.com/mininet/
 openflow-tutorial/wiki/Create-a-Learning-Switch
-#### Setup
-• During the setup, you should be connected to SUTD_Student to have Internet access.
-• This exercise requires a working mininet setup. All lab machines have this running already
-#### POX
-• Install the POX SDN controller into a directory of your choice (e.g., ~/lab10/pox)
 #### Installing flow table entries in the switch
 • Example. Create a flow_mod that sends packets from port 3 out of port 4.
