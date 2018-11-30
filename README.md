@@ -185,12 +185,12 @@ Date: 30/11/18
 #### Overview
 • In this exercise, we will use mininet to write a simple SDN controller to manage a set of
 switches.
-• Software-Defined Networking (SDN) is a promising new approach to network management
-• We have linked a nice video intro to SDN in eDimension
-• We start by using OpenFlow and the POX controller to make a SDN switch learn mac addresses
-(similar to the cam table in a normal non-SDN switch)
-• We then extend the controller to install specific flows in the switch
-• This exercise is built on the official mininet tutorial at https://github.com/mininet/
+• Software-Defined Networking (SDN) is a promising new approach to network management   
+• We have linked a nice video intro to SDN in eDimension   
+• We start by using OpenFlow and the POX controller to make a SDN switch learn mac addresses    
+(similar to the cam table in a normal non-SDN switch)   
+• We then extend the controller to install specific flows in the switch   
+• This exercise is built on the official mininet tutorial at https://github.com/mininet/   
 openflow-tutorial/wiki/Create-a-Learning-Switch
 #### Installing flow table entries in the switch
 • Example. Create a flow_mod that sends packets from port 3 out of port 4.
