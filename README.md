@@ -180,7 +180,7 @@ critical services
 # Network Labs #10
 Network 50.012 Mod ISTD Term 6
 ### Software Defined Networks Basics
-Instructor(s): Prof Jit Biswas 
+Instructor(s): Prof Jit Biswas  
 Date: 30/11/18  
 #### Overview
 • In this exercise, we will use mininet to write a simple SDN controller to manage a set of
