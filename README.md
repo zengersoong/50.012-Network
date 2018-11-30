@@ -140,9 +140,8 @@ student`*__
 
 # Network Labs #3
 Network 50.012 Mod ISTD Term 6
-
-Lab 3:Server and Client UDP 
-
+Lab 3:Server and Client UDP   
+Instructor(s): Prof Jit Biswas 
 ### List of task to fulfil for Lab
 1. The client should send approximately 1.5Mbps
 2. No packets should be dropped by default
@@ -157,15 +156,16 @@ Json is used to keep track of segment IDs, a python list is kept to keep track o
 
 # Network Labs #4
 Network 50.012 Mod ISTD Term 6
-Lab 4: BGP routing
+Lab 4: BGP routing  
+Instructor(s): Prof Jit Biswas 
 1. Discovering more about mininet and learning the basics
 2. Getting familiar with BGP and Zebra tools
 3. Understanding malicious BGP abuse
 
 # Network Labs #5
 Network 50.012 Mod ISTD Term 6
-Lab 5: Designing and implementing a small network
-
+Lab 5: Designing and implementing a small network    
+Instructor(s): Prof Jit Biswas 
 1. Use knowledge from the class to design and implement a small network
 2. Once again, we are using mininet to run a set of virtualized hosts
 3. Your job is to connect these hosts correctly through switches and routers, and to configure
@@ -176,3 +176,26 @@ critical services
 7. Creating a simple firewalling by setting up iptables
   1. Changing iptable routing
   2. https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/
+
+# Network Labs #10
+Network 50.012 Mod ISTD Term 6
+### Software Defined Networks Basics
+Instructor(s): Prof Jit Biswas 
+Date: 30/11/18  
+#### Overview
+• In this exercise, we will use mininet to write a simple SDN controller to manage a set of
+switches.
+• Software-Defined Networking (SDN) is a promising new approach to network management
+• We have linked a nice video intro to SDN in eDimension
+• We start by using OpenFlow and the POX controller to make a SDN switch learn mac addresses
+(similar to the cam table in a normal non-SDN switch)
+• We then extend the controller to install specific flows in the switch
+• This exercise is built on the official mininet tutorial at https://github.com/mininet/
+openflow-tutorial/wiki/Create-a-Learning-Switch
+#### Setup
+• During the setup, you should be connected to SUTD_Student to have Internet access.
+• This exercise requires a working mininet setup. All lab machines have this running already
+#### POX
+• Install the POX SDN controller into a directory of your choice (e.g., ~/lab10/pox)
+#### Installing flow table entries in the switch
+• Example. Create a flow_mod that sends packets from port 3 out of port 4.
