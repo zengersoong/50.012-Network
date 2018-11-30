@@ -1,6 +1,5 @@
 # Network Labs #2
 Network 50.012 Mod ISTD Term 6
-<br>LAB 2<br/>
 
 Lab 2:Building your own web application with a Restful API
 
@@ -141,7 +140,6 @@ student`*__
 
 # Network Labs #3
 Network 50.012 Mod ISTD Term 6
-<br>LAB 2<br/>
 
 Lab 3:Server and Client UDP 
 
@@ -156,3 +154,25 @@ Lab 3:Server and Client UDP
 ### My lab strategy 
 Absolutely no strategy , just send and wait to ensure that packets are sent at 1.5Mbps to server.
 Json is used to keep track of segment IDs, a python list is kept to keep track of which segment are late/ dropped.
+
+# Network Labs #4
+Network 50.012 Mod ISTD Term 6
+Lab 4: BGP routing
+1. Discovering more about mininet and learning the basics
+2. Getting familiar with BGP and Zebra tools
+3. Understanding malicious BGP abuse
+
+# Network Labs #5
+Network 50.012 Mod ISTD Term 6
+Lab 5: Designing and implementing a small network
+
+1. Use knowledge from the class to design and implement a small network
+2. Once again, we are using mininet to run a set of virtualized hosts
+3. Your job is to connect these hosts correctly through switches and routers, and to configure
+critical services
+4. Changing DHCP configuration
+5. Configuring DNS
+6. Observing NAT
+7. Creating a simple firewalling by setting up iptables
+  1. Changing iptable routing
+  2. https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/
